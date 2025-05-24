@@ -6,7 +6,7 @@ Hello there. This mini project takes an email content as input and predicts whet
 
 ![image](https://github.com/user-attachments/assets/70ee1b37-c97d-47ac-8aa5-b160b949d058)
 
-NOTE: As the purpose of this project was to dive into MLOps , I did not stress much on the UI of the app.
+
 
 ## :sparkles: Features of project
 
